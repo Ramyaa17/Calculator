@@ -1,5 +1,6 @@
 
 Calculator
+
 A simple, interactive calculator web application built using HTML, CSS, and JavaScript. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features:
@@ -24,6 +25,7 @@ Open the index.html file in your web browser.
 Use the on-screen buttons to enter numbers and perform calculations.
 Click the = button to display the result.
 Use the C button to clear the current input.
+
 Installation:
 1.Clone the repository using Git:
 bash
