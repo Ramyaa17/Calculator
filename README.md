@@ -16,8 +16,8 @@ File Structure:
 bash
 Copy
 - Calculator.html      # Main HTML file for the calculator
-- style.css       # Stylesheet to style the calculator
-- script.js       # JavaScript file to handle the functionality
+- calculator.css       # Stylesheet to style the calculator
+- calculator.js       # JavaScript file to handle the functionality
 - README.md       # This readme file
 How to Use:
 Clone or download this repository.
@@ -35,4 +35,4 @@ git clone https://github.com/yourusername/calculator.git
 bash
 Copy
 cd calculator
-3.Open the index.html file in a web browser.
+3.Open the calculator.html file in a web browser.
